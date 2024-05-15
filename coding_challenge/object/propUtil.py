@@ -1,5 +1,3 @@
-# PropertyUtil.py
-
 class PropertyUtil:
     @staticmethod
     def get_property_string():
@@ -14,5 +12,3 @@ class PropertyUtil:
         )
 
         return conn_str
-
-
