@@ -1,4 +1,4 @@
-from ENTITY import Movie,Director,Actor
+from bla import Movie,Director,Actor
 from DAO import MovieService, DirectorService
 
 
