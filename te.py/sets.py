@@ -39,3 +39,26 @@ print(a)
 # 1. List
 # 2. Dictionary
 # 3. Set
+
+# print("this is cool""\nwe will do it now""\nok bye")
+# #multi line string
+
+# print("""
+# hi
+# hello
+#     ok 
+#       bye
+#       """)
+# followers= 1000
+# print(
+#     f"""
+# hi this is manju 
+# i have {followers} followers"""
+# )
+
+def to_upper_case(text):
+    """ this helps in converting the text into uppercase"""
+    return text.upper()
+
+print(to_upper_case("manju"))
+print(help(to_upper_case))
